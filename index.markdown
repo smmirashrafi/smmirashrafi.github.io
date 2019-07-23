@@ -11,6 +11,6 @@ date: 2019-07-23 19:01:00 +02:00
     enable_page_level_ads: true
   });
 </script>
-<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+<link rel="icon" href="https://material.io/tools/icons/static/icons/baseline-accessible-24px.svg" />
 </head>
 [AKK](https://www.akk.org/)
