@@ -13,4 +13,4 @@ date: 2019-07-23 19:01:00 +02:00
 </script>
 <link rel="icon" href="https://material.io/tools/icons/static/icons/baseline-accessible-24px.svg" />
 </head>
-[AKK](https://www.akk.org/)
+[Arbeitskreis Kultur und Kommunikation](https://www.akk.org/)
