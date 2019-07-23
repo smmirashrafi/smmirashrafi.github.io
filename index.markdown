@@ -1,5 +1,5 @@
 ---
-title: Eine Sammlung meine Links!
+title: Eine Sammlung meiner Links!
 date: 2019-07-23 19:01:00 +02:00
 ---
 
