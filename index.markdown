@@ -12,5 +12,6 @@ date: 2019-07-23 19:01:00 +02:00
   });
 </script>
 </head>
-[Arbeitskreis Kultur und Kommunikation](https://www.akk.org/){target="_blank"}
-[](https://www.kit.edu/){:target="_blank"}
+[Arbeitskreis Kultur und Kommunikation](https://www.akk.org/){:target="_blank"}
+[kit](https://www.kit.edu/){:target="_blank"}
+<a href="https://www.kit.edu/" target="_blank">KIT</a>
