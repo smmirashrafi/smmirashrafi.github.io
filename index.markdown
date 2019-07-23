@@ -12,6 +12,5 @@ date: 2019-07-23 19:01:00 +02:00
   });
 </script>
 <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-<link rel="icon" href=<i class="material-icons">cloud</i>>
 </head>
 [AKK](https://www.akk.org/)
