@@ -11,6 +11,5 @@ date: 2019-07-23 19:01:00 +02:00
     enable_page_level_ads: true
   });
 </script>
-<link rel="icon" href="https://material.io/tools/icons/static/icons/baseline-accessible-24px.svg" />
 </head>
-[Arbeitskreis Kultur und Kommunikation](https://www.akk.org/)
+[Arbeitskreis Kultur und Kommunikation](https://www.akk.org/){target="_blank"}
